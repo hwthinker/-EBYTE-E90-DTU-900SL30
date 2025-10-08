@@ -22,13 +22,13 @@ Arus Transmisi: 45mA pada 30dBm (1W)
 
 - Configuration Tool
 
-  -  [RF_Setting(E22-E9X(SL)) V3.2.7z](software\RF_Setting(E22-E9X(SL))
+  - https://github.com/hwthinker/-EBYTE-E90-DTU-900SL30/blob/main/software/RF_Setting(E22-E9X(SL))%20V3.2.7z
+- atau https://icedrive.net/s/573kCN6XxAjStGNY7va9CG4ikT1R
 
 ## Manual 
 
--  [E90-DTU(900SL30)_UserManual_EN_v1.2.pdf](PDF\E90-DTU(900SL30)_UserManual_EN_v1.2.pdf) 
-
-
+- https://github.com/hwthinker/-EBYTE-E90-DTU-900SL30/blob/main/PDF/E90-DTU(900SL30)_UserManual_EN_v1.2.pdf
+- atau https://icedrive.net/s/XTY7YaSXRTbiZ8zhNz7jVbQVDDPz
 
 ## Cara konfigurasi
 
