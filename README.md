@@ -4,15 +4,16 @@ E90-DTU (900SL30) adalah transceiver data canggih yang menggunakan teknologi mod
 
 Antarmuka RS232/RS485 Transparan dengan dukungan input tegangan 8-28VDC memastikan konektivitas yang mudah dan fleksibel.
 
-Spesifikasi Lengkap:
-Frekuensi Kerja: 850.125~930.125 MHz
-Daya Transmisi: 30 dBm (sekitar 1W)
-Kecepatan Data Udara: 0.3k~62.5kbps (Default: 2.4kbps)
-Jenis Antena: SMA-K
-Antarmuka Komunikasi: RS232 / RS485
-Jumlah Channel: 81
-Sumber Daya: 8-28VDC (direkomendasikan 12V atau 24V)
-Arus Transmisi: 45mA pada 30dBm (1W)
+**Spesifikasi Lengkap:**
+
+- Frekuensi Kerja: 850.125~930.125 MHz
+- Daya Transmisi: 30 dBm (sekitar 1W)
+- Kecepatan Data Udara: 0.3k~62.5kbps (Default: 2.4kbps)
+- Jenis Antena: SMA-K
+- Antarmuka Komunikasi: RS232 / RS485
+- Jumlah Channel: 81
+- Sumber Daya: 8-28VDC (direkomendasikan 12V atau 24V)
+- Arus Transmisi: 45mA pada 30dBm (1W)
 
 ![img](./assets/82853782-55f8-4a4b-9345-2eb91ac97694.jpg)
 
