@@ -1,5 +1,22 @@
 # EBYTE E90-DTU (900SL30) — Konfigurasi RS232/RS485 ke LoRa
 
+<!-- hwthinker-store-links -->
+
+## Beli boardnya & tutorial lengkap
+
+**Board yang dipakai di repo ini tersedia di HwThinker Store:**
+
+- [EBYTE E90-DTU (900SL30) RS232 RS485 MODBUS to LORA 900MHz with Antenna](https://hwthinker.com/produk/3ba589ca-7cb8-47f7-84cb-0cce9021059e)
+
+**Tutorial lengkap — langkah bergambar, troubleshooting, dan kode yang sudah diuji:**
+
+- [EBYTE E90-DTU (900SL30) — Konfigurasi RS232/RS485 ke LoRa](https://hwthinker.com/tutorials/ebyte-e90-dtu-900sl30)
+
+Butuh bantuan pemasangan? Sapa kami lewat live chat di [hwthinker.com](https://hwthinker.com) — barang dikirim dari Surabaya, sudah diuji sebelum dikemas.
+
+<!-- /hwthinker-store-links -->
+
+
 ![EBYTE E90-DTU (900SL30)](./assets/82853782-55f8-4a4b-9345-2eb91ac97694.jpg)
 
 E90-DTU (900SL30) adalah transceiver data LoRa (chip SX1262) yang mengubah port serial RS232 atau RS485 jadi tautan wireless jarak jauh — dua unit saling terhubung lewat udara, transparan dari sisi perangkat yang dipasang di kedua ujungnya (PC, PLC, RTU, sensor Modbus, dst). Beroperasi di pita frekuensi 850,125–930,125 MHz dengan daya pancar hingga 30 dBm (~1W) dan jangkauan sampai 10 km di ruang terbuka.
